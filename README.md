@@ -46,4 +46,4 @@ On testing, no model was able to get past 70% accuracy, with the CNN showing the
 
 - The dataset was highly unbalanced, hence i needed to perform data augmentation on the audio files, producing artificial samples for the covid cases.
 - Limited computational resources, which prevented the selection of additional features from the spectrograms.
-- Low amount of samples with good characterization
+- Low amount of samples with good characterization, which led to heavy filtering in the inital steps of the project.
